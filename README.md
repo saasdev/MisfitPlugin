@@ -1,0 +1,2 @@
+# MisfitPlugin
+Cordova Misfit Plugin
